@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Asaduzzaman Sohel</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+<h1 align="center">🚀 Hi, I'm Asaduzzaman Sohel! 👋</h1>
+<h3 align="center">Backend Engineer | Golang Enthusiast | Cloud & Microservices Architect</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asadlive84&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=asadlive84&column=6&theme=onedark" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=asadlive84&column=6&theme=radical" alt="Trophies" />
   </a>
 </p>
 
@@ -19,55 +19,60 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working at **[Codemen](https://codemen.org/)**
-- 💬 Ask me about **Golang, Python, PostgreSQL, Microservices, gRPC, RabbitMQ, AWS, and Backend Development**
-- 🏠 Living in **Khulna, Bangladesh**
-- 🖥️ OS of choice: **Fedora/Ubuntu**
-- 📫 Reach me at **asadlive.sohel@gmail.com**
+## 🚀 About Me
+- 💼 **Currently:** Backend Developer at **[Codemen](https://codemen.org/)**
+- 💡 **Expertise:** Golang, Python, PostgreSQL, Microservices, gRPC, RabbitMQ, AWS, Backend Architecture
+- 🏡 **Location:** Fulhata, Bangladesh
+- 💻 **OS of Choice:** Fedora 🐧
+- 📫 **Reach Me:** [asadlive.sohel@gmail.com](mailto:asadlive.sohel@gmail.com)
+- 🎯 **Interests:** Distributed Systems, Cloud Computing, DevOps
 
 ---
 
-### 📝 Latest Blog Posts
+## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 📬 Connect with Me
-<p align="left">
-<a href="https://x.com/asadlive84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asadlive84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7160169/asaduzzaman-sohel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-<a href="https://medium.com/@asadlive.sohel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+## 📬 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/asadlive84" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/asadlive84" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://stackoverflow.com/users/7160169/asaduzzaman-sohel" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" /></a>
+  <a href="https://medium.com/@asadlive.sohel" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a>
-  <a href="https://grpc.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/GRPC_Logo.svg/128px-GRPC_Logo.svg.png" alt="gRPC" width="40" height="40"/></a>
-  <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+## 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/GRPC_Logo.svg/128px-GRPC_Logo.svg.png" alt="gRPC" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asadlive84&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asadlive84&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadlive84&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asadlive84&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadlive84&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadlive84&theme=highcontrast" alt="GitHub Streak" />
 </p>
+
+---
+
+🔥 **Let's Build Something Amazing Together!** 🔥
