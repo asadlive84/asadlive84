@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working at **[Codemen](https://codemen.org/)**
-- 💬 Ask me about **Golang, Python, PostgreSQL, and Backend Development**
+- 💬 Ask me about **Golang, Python, PostgreSQL, Microservices, gRPC, RabbitMQ, AWS, and Backend Development**
 - 🏠 Living in **Fulhata, Bangladesh**
 - 🖥️ OS of choice: **Fedora**
 - 📫 Reach me at **asadlive.sohel@gmail.com**
@@ -54,6 +54,9 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a>
+  <a href="https://grpc.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/GRPC_Logo.svg/128px-GRPC_Logo.svg.png" alt="gRPC" width="40" height="40"/></a>
+  <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
 </p>
 
 ---
