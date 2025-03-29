@@ -22,16 +22,13 @@
 ## 🚀 About Me
 - 💼 **Currently:** Backend Developer at **[Codemen](https://codemen.org/)**
 - 💡 **Expertise:** Golang, Python, PostgreSQL, Microservices, gRPC, RabbitMQ, AWS, Backend Architecture
-- 🏡 **Location:** Fulhata, Bangladesh
-- 💻 **OS of Choice:** Fedora 🐧
+- 🏡 **Location:** Khulna, Bangladesh
+- 💻 **OS of Choice:** Fedora, Ubuntu
 - 📫 **Reach Me:** [asadlive.sohel@gmail.com](mailto:asadlive.sohel@gmail.com)
 - 🎯 **Interests:** Distributed Systems, Cloud Computing, DevOps
 
 ---
 
-## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
