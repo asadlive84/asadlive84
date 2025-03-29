@@ -22,8 +22,8 @@
 ### 🚀 About Me
 - 🔭 I’m currently working at **[Codemen](https://codemen.org/)**
 - 💬 Ask me about **Golang, Python, PostgreSQL, Microservices, gRPC, RabbitMQ, AWS, and Backend Development**
-- 🏠 Living in **Fulhata, Bangladesh**
-- 🖥️ OS of choice: **Fedora**
+- 🏠 Living in **Khulna, Bangladesh**
+- 🖥️ OS of choice: **Fedora/Ubuntu**
 - 📫 Reach me at **asadlive.sohel@gmail.com**
 
 ---
@@ -36,7 +36,7 @@
 
 ### 📬 Connect with Me
 <p align="left">
-<a href="https://twitter.com/asadlive84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://x.com/asadlive84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asadlive84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7160169/asaduzzaman-sohel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
 <a href="https://medium.com/@asadlive.sohel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
